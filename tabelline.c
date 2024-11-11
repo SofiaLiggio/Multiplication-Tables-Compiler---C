@@ -9,7 +9,7 @@ int main() {
     scanf("%d", &tabellina);
 
     for(i=1; i<=10; i++) {
-        printf("\n %d", numero=numero+tabellina);
+        printf("\n %d", numero+=tabellina);
         sleep(1);
     }
 
