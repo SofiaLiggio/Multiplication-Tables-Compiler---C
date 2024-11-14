@@ -10,6 +10,7 @@ int main() {
 
     for(i=1; i<=10; i++) {
         printf("\n %d", numero+=tabellina);
+        sleep(1);
     }
 
     return 0;
